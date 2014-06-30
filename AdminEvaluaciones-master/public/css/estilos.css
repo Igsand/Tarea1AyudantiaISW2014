@@ -1,0 +1,17 @@
+.fondo{
+	background-image:  url('../images/fondo.jpg');
+}
+
+body {
+	font-family: Ubuntu;
+	color:#333333;
+	text-align: justify;
+}
+
+h1 {
+	font-size: 34px;
+}
+
+h2 {
+	font-size: 30px;
+}
